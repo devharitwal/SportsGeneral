@@ -46,6 +46,13 @@
             user-select: none;
         }
 
+
+        .connect ::selection {
+            background-color: black;
+            color: yellow;
+
+        }
+
         @media (min-width: 768px) {
             .bd-placeholder-img-lg {
                 font-size: 3.5rem;
@@ -78,22 +85,37 @@
         </header>
 
         <main class="">
-            <h1> Read the latest news on the go.</h1>
-            <p class="lead">
-                Simple news app made for Android. <i class="fab fa-android"></i>
-                <br>
-                <br>
+            <div class="connect">
 
-                <a href="app-release.apk" download="fanzone.apk"
-                    class=" btn btn-lg btn-secondary fw-bold border-1 text-dark bg-light ">Get
-                    App</a>
-            </p>
+                <h1> Read the latest news on the go.</h1>
+                <p class="lead">
+                    Simple news app made for Android. <i class="fab fa-android"></i>
+                    <br>
+                    <br>
+
+                    <a href="app-release.apk" download="fanzone.apk"
+                        class=" btn btn-lg btn-secondary fw-bold border-1 text-dark bg-light ">Get
+                        App</a>
+                </p>
+
+
+            </div>
+
+            <div class="row">
+                <div class="col-lg-6">
+                    <img src="" alt="">
+
+
+                </div>
+                <div class="col-lg-6"></div>
+
+
+            </div>
+
+
         </main>
-
-
-
         <footer class=" mt-auto text-white-50">
-            <p> Connect with me <a href="https://www.linkedin.com/in/devharitwal/" class="text-white">Dev
+            <p class=""> Connect with me <a href="https://www.linkedin.com/in/devharitwal/" class="text-white">Dev
                     Haritwal</a>,
             </p>
         </footer>
