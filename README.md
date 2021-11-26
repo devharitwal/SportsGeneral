@@ -20,6 +20,9 @@ Download the app from the webpage. Click on install anyway and you are good to g
 #### How to use the app? 
 Sign up using your email and provide a password, simple login to read news. 
 
+Email - test.user@email.com
+Pass  - test1234
+
 
 
 
