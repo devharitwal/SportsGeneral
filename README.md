@@ -45,7 +45,7 @@ Pass  - test1234
 
   
 ## Contributing and Code
-Working on it. 
+Working on it. Release soon 
 
 
 
